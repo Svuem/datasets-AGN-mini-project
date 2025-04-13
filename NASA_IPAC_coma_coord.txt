@@ -1,0 +1,31 @@
+
+
+Results from query to  NASA/IPAC Extragalactic Database (NED),
+which is funded by the National Aeronautics and Space Administration.
+and operated by the California Institute of Technology.
+
+
+queryDateTime:2025-04-12T21:24:01PDT
+
+
+
+Main Information Table for All Sky, chosen by params
+
+
+
+Equinox:J2000.0
+
+
+
+CoordSystem:Equatorial
+
+No.|Object Name|RA|DEC|Type|Velocity|Redshift|Redshift Flag|Magnitude and Filter|Separation|References|Notes|Photometry Points|Positions|Redshift Points|Diameter Points|Associations
+1|[HB89] 1256+284|194.83513 |  28.22662 |QSO|644293| 2.149130 |SLS |19.2 |  0.000|21|0|27|5|4|4|0
+2|WISEA J125930.95+282705.5|194.87899 |  28.45154 |QSO|328555| 1.095940 |SLS |19.3g|  0.000|40|0|59|17|20|8|0
+3|WISEA J125933.53+281739.9|194.88971 |  28.29444 |G| 41401| 0.138100 |SUN |19.36|  0.000|17|0|32|11|10|4|0
+4|[HB89] 1257+287|194.96310 |  28.45821 |QSO|896380| 2.990000 |SUN |19.6 |  0.000|8|0|0|1|1|0|0
+5|WISEA J130002.41+274015.4|195.00987 |  27.67078 |*|749178| 2.498990 |SLS |21.7g|  0.000|7|0|27|7|5|4|0
+6|[HB89] 1257+280|195.01325 |  27.81379 |QSO|694107| 2.315290 |SLS |21.1 |  0.000|18|0|44|9|5|6|0
+7|SDSS J130009.79+281844.4|195.04081 |  28.31234 |*|715956| 2.388173 |SLS |21.1g|  0.000|10|0|5|5|6|4|0
+8|[HB89] 1257+279|195.06113 |  27.65951 |QSO|773465| 2.580000 |SUN |21.9 |  0.000|15|0|23|4|1|0|0
+9|WISEA J130015.94+274432.9|195.06658 |  27.74249 |*| 80868| 0.269747 |SLS |21.8g|  0.000|9|0|45|7|4|4|0

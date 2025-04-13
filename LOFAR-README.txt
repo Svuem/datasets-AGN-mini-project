@@ -1,0 +1,1 @@
+https://lofar-surveys.org/public/DR2/catalogues/README-v1.1.md
